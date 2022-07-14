@@ -6,6 +6,6 @@ Hi, This is a Todo List System Made with HTML CSS and Js.
 </p>
 
 > Website Link: https://www.todoplanner.ga/
-## Created By Shobhit Jain 🔥
+## Created By Shobhit Jain, Sandeep Solanki 🔥
 
 Thank You
